@@ -153,6 +153,115 @@ console.log("El resultado es: " + resultado);*/
 
 
 
+
+ 
+/* console.warn("mensaje alerta")
+console.error("mensaje error")
+
+
+ */
+
+
+
+
+                //EJERCICIOS DE LA CLASE EN VIVO
+
+
+
+
+/* let numero1 =  parseInt(prompt("ingresa un numero"))   
+let numero2 =  prompt("ingresa otro numero")
+
+let suma = numero1 + numero2
+
+alert(suma) */
+
+
+
+
+
+
+
+/* let num = parseInt(prompt("ingrese un numero"))
+
+if(num >=10 && num<=20){
+    alert("el numero esta entre 10 y 20")
+}else{
+    alert("no cumple con la consigna")
+} */
+
+
+
+
+/* let usuarioEdad = parseInt(prompt('ingresa tu Edad'))
+if (usuarioEdad >= 18 || usuarioEdad < 65){
+    alert('Puedes trabar aqui')
+} else {
+    alert('Lo siento no cumples con la condición')
+}
+ */
+
+
+
+/* let numero1 = parseInt(prompt("ingrese el primer numero"))
+let numero2 = parseInt(prompt("ingrese el segundo numero"))
+
+
+
+if( numero1 % 2===0 && numero2 % 2===0){
+    alert("ambos son pares")
+}else{
+    alert("al menos uno de los numeros es impar")
+}
+ */
+
+
+
+/* let numero =  parseInt(prompt("ingresa un numero")) 
+
+
+alert(numero) */
+
+
+//AND - OR- NOT
+
+
+
+/* let numA= "10"
+let numB = 5
+
+
+if((numA != NaN || numA > 2)&& (numB > 6) ){
+    alert("no se va a mostrar")
+}
+
+
+NOT A NUMBER   ==  "10"
+NOT A NUMBER != 5
+
+
+
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //archivo creado para uso educativo- propiedad de Javier Gimenez
 //IG jg.programacion
 //YT jg.programacion
