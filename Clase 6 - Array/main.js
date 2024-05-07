@@ -338,6 +338,30 @@ console.log(producto.color); //recorro producto.color y lo muestro
                         }
                     
                     }
+                   
+                    function agregarProducto(){
+                        let nombre = prompt("ingresa el nombre del producto")
+                        let precio = prompt("ingresa el precio del producto")
+                        let stock = prompt("ingresa el stock del producto")
+
+                        if(isNaN(precio) || isNaN(stock) || nombre == "" ){
+                            alert("por favor ingresa datos validos")
+                            return
+                        }
+                            let producto= new Producto(nombre, precio, stock)
+
+                        if(lista.some((p)=>p.nombre === producto.nombre)){
+                            alert("el producto ya existe")
+                            return
+                        }
+
+                        lista.push(producto)
+                        console.table(lista)
+
+                    }
+
+
+
 
 
 
