@@ -199,3 +199,42 @@ function agregarProducto() {
     lista.push(producto);//Si el producto no existe en la lista, se agrega a la misma y se muestra la lista completa de productos en la consola utilizando console.table
     console.table(lista);
   }*/
+
+
+
+  //  SORT
+
+
+  //usa dos parametros, (a,b),devuelve negativo si a tiene que ir antes que b
+  //devuelve positivo si a tiene que ir despues de b, y cero si sonm iguales
+
+
+
+  dbContext= [
+    productos = {
+
+
+
+
+
+
+    }
+  ]
+
+
+  const numeros= ["javier", "sabrina", "matias", "alejandro"]
+
+  let menorAMayor =numeros.sort(function(a,b){
+    return a-b
+  })
+  console.log(numeros)
+  
+
+  
+
+
+
+
+
+
+
