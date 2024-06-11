@@ -1,0 +1,89 @@
+{
+    "frutas": [
+      {
+        "nombre": "Manzana",
+        "color": "Rojo",
+        "sabor": "Dulce",
+        "precio_por_kg": 3.5,
+        "origen": "Estados Unidos"
+      },
+      {
+        "nombre": "Banana",
+        "color": "Amarillo",
+        "sabor": "Dulce",
+        "precio_por_kg": 1.2,
+        "origen": "Ecuador"
+      },
+      {
+        "nombre": "Naranja",
+        "color": "Naranja",
+        "sabor": "Dulce y ácido",
+        "precio_por_kg": 2.0,
+        "origen": "España"
+      },
+      {
+        "nombre": "Fresa",
+        "color": "Rojo",
+        "sabor": "Dulce y ácido",
+        "precio_por_kg": 4.0,
+        "origen": "México"
+      },
+      {
+        "nombre": "Uva",
+        "color": "Morado",
+        "sabor": "Dulce",
+        "precio_por_kg": 3.0,
+        "origen": "Chile"
+      },
+      {
+        "nombre": "Piña",
+        "color": "Amarillo",
+        "sabor": "Dulce y ácido",
+        "precio_por_kg": 2.5,
+        "origen": "Costa Rica"
+      },
+      {
+        "nombre": "Manzana",
+        "color": "Rojo",
+        "sabor": "Dulce",
+        "precio_por_kg": 3.5,
+        "origen": "Estados Unidos"
+      },
+      {
+        "nombre": "Banana",
+        "color": "Amarillo",
+        "sabor": "Dulce",
+        "precio_por_kg": 1.2,
+        "origen": "Ecuador"
+      },
+      {
+        "nombre": "Naranja",
+        "color": "Naranja",
+        "sabor": "Dulce y ácido",
+        "precio_por_kg": 2.0,
+        "origen": "España"
+      },
+      {
+        "nombre": "Fresa",
+        "color": "Rojo",
+        "sabor": "Dulce y ácido",
+        "precio_por_kg": 4.0,
+        "origen": "México"
+      },
+      {
+        "nombre": "Uva",
+        "color": "Morado",
+        "sabor": "Dulce",
+        "precio_por_kg": 3.0,
+        "origen": "Chile"
+      },
+      {
+        "nombre": "Piña",
+        "color": "Amarillo",
+        "sabor": "Dulce y ácido",
+        "precio_por_kg": 2.5,
+        "origen": "Costa Rica"
+      }
+    ]
+  }
+  
